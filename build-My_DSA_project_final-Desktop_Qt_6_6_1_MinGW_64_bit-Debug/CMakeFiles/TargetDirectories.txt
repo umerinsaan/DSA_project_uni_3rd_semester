@@ -1,0 +1,9 @@
+D:/Dsa_project_shit/build-My_DSA_project_final-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/My_DSA_project_final.dir
+D:/Dsa_project_shit/build-My_DSA_project_final-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Dsa_project_shit/build-My_DSA_project_final-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Dsa_project_shit/build-My_DSA_project_final-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Dsa_project_shit/build-My_DSA_project_final-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Dsa_project_shit/build-My_DSA_project_final-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Dsa_project_shit/build-My_DSA_project_final-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Dsa_project_shit/build-My_DSA_project_final-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/My_DSA_project_final_autogen_timestamp_deps.dir
+D:/Dsa_project_shit/build-My_DSA_project_final-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/My_DSA_project_final_autogen.dir
